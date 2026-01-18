@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exercicios aula-13</title>
+</head>
+<body>
+    <script>
+       /* const nome = prompt("Digite seu nome: ")
+       document.write(nome); // escreve na pagina o nome digitado
+        // devido o document.write
+
+       document.body.innerHTML = `<h1> Olá, ${nome}!</h1>` // é preciso escrever a tag por completo
+       document.body.innerHTML += `<h1> Olá, ${nome}!</h1>`
+        */
+       const nome = prompt("digite o seu nome completo: ");
+       document.body.innerHTML +=  `O seu nome é ${nome}<br>`;
+       document.body.innerHTML += `Seu nome tem ${nome.length} letras<br>`;
+       document.body.innerHTML += `A segunda letra do seu nome é ${nome[1]}<br>`;
+       document.body.innerHTML += `O primeiro indice da letra A é ${nome.indexOf('a')} <br>`;
+       document.body.innerHTML += `O ultimo indice da letra A é ${nome.lastIndexOf('a')}`;
+       document.body.innerHTML += `As ultimas letras do seu nome são ${nome.slice(-3)}<br>`;
+       document.body.innerHTML += `As palavras no seu nome são: ${nome.split(' ')}<br>`;
+       document.body.innerHTML += `O seu nome em maiusculo é ${nome.toUpperCase()}<br>`;
+       document.body.innerHTML += `O seu nome em minusculo é ${nome.toLowerCase()}`;
+
+
+    </script>
+</body>
+</html>
