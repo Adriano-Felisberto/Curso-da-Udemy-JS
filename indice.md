@@ -6,7 +6,7 @@ Este índice lista todas as seções do curso, organizadas em ordem progressiva,
 
 ## 📚 Seções
 
-01. [Seção 01 – Introdução e configuração do ambiente](./seção01)
+01. [Seção 01 – Introdução e configuração do ambiente](./Seção01)
 ---
 
 📌 **Aviso**  
