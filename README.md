@@ -49,11 +49,11 @@ O conteúdo está organizado por **seções**, seguindo a progressão do curso, 
 
 ### Padrão das pastas
 
-secao-01-fundamentos-javascript
-secao-02-logica-de-programacao
-secao-03-javascript-orientado-a-objetos
-secao-04-javascript-funcional
-secao-05-javascript-assincrono
+- secao-01-fundamentos-javascript
+- secao-02-logica-de-programacao
+- secao-03-javascript-orientado-a-objetos
+- secao-04-javascript-funcional
+- secao-05-javascript-assincrono
 
 ---
 
