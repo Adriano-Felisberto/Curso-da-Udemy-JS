@@ -8,7 +8,10 @@ Este índice lista todas as seções do curso, organizadas em ordem progressiva,
 
 01. [Seção 01: JavaScript Básico - Para iniciantes](./Seção01)
 02. [Seção 02: JavaScript - Lógica de programação](./Seção02)
+03. [Seção 03: JavaScript Funções (Avançado)](./Seção03)
 
+
+Seção 4: JavaScript Funções (Avançado)
 ---
 
 📌 **Aviso**  
