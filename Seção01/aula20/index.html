@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Exercícios</title>
+  </head>
+  <body>
+    <form action="" class="form" method="get">
+      <!-- Formulário HTML -->
+      <!-- A classe ".form" é usada para selecionar o formulário no JavaScript -->
+      <!-- O método GET é usado apenas para fins de estudo -->
+
+      <p>
+        Nome:
+        <input type="text" class="nome" placeholder="Digite seu nome!" />
+        <!-- Campo de texto para o nome -->
+        <!-- A classe ".nome" permite capturar o valor via JavaScript -->
+      </p>
+
+      <p>
+        Sobrenome:
+        <input
+          type="text"
+          class="sobrenome"
+          placeholder="Digite seu sobrenome!"
+        />
+        <!-- Campo de texto para o sobrenome -->
+        <!-- Usado para estudos de manipulação do DOM -->
+      </p>
+
+      <p>
+        Peso:
+        <input type="text" class="peso" placeholder="Digite seu peso!" />
+        <!-- Campo de texto para o peso -->
+        <!-- O valor será capturado e armazenado em um array -->
+      </p>
+
+      <p>
+        Altura:
+        <input type="text" class="altura" placeholder="Digite sua altura!" />
+        <!-- Campo de texto para a altura -->
+        <!-- Usado apenas como exemplo de múltiplos inputs -->
+      </p>
+
+      <button type="submit">Enviar</button>
+      <!-- Botão responsável por enviar o formulário -->
+      <!-- Dispara o evento "submit" capturado no JavaScript -->
+    </form>
+
+    <div class="resultado"></div>
+    <!-- Div usada para exibir os dados digitados -->
+    <!-- O conteúdo é inserido dinamicamente com JavaScript -->
+
+    <script src="/Seção01/aula20/js/index.js"></script>
+    <!-- Importa o arquivo JavaScript -->
+    <!-- Responsável por controlar os eventos e lógica do formulário -->
+  </body>
+</html>
