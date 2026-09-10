@@ -10,6 +10,7 @@ Este índice lista todas as seções do curso, organizadas em ordem progressiva,
 02. [Seção 02: JavaScript - Lógica de programação](./Seção02)
 03. [Seção 03: JavaScript Funções (Avançado)](./Seção03)
 04. [Seção 04: JavaScript Arrays (Avançado)](./Seção04)
+05. [Seção 6: JavaScript Objetos e prototypes (Avançado)](./Seção05)
 
 ---
 
