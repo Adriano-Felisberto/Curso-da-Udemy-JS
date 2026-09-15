@@ -11,6 +11,7 @@ Este índice lista todas as seções do curso, organizadas em ordem progressiva,
 03. [Seção 03: JavaScript Funções (Avançado)](./Seção03)
 04. [Seção 04: JavaScript Arrays (Avançado)](./Seção04)
 05. [Seção 05: JavaScript Objetos e prototypes (Avançado)](./Seção05)
+06. [Seção 8: JavaScript assíncrono - Promises, Ajax, Fetch e Async/Await](./Seção06)
 
 ---
 
